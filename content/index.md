@@ -25,12 +25,27 @@ Impartido por la *M. en C. Clotilde García Villa*.
 		- [[Clase 10]]
 - Segundo mes
 	- Primer semana
+		- [[Clase 11]]
+		- [[Clase 12]]
+		- [[Clase 13]]
 	- Segunda semana
+		- [[Clase 14]]
+		- [[Clase 15]]
+		- [[Clase 16]]
 	- Tercer semana
+		- [[Clase 17]]
 	- Cuarta semana
 - Tercer mes
 	- Primer semana
 	- Segunda semana
+		- [[Clase 20]]
+		- [[Clase 21]]
+		- [[Clase 22]]
 	- Tercer semana
+		- [[Clase 23]]
+		- [[Clase 25]]
 	- Cuarta semana
+		- [[Clase 26]]
+		- [[Clase 27]]
+		- [[Clase 28]]
 
