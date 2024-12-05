@@ -8,6 +8,9 @@ tags:
 relación: "[[Ayudantía 09]]"
 ---
 
+video:
+  - ![](https://www.youtube.com/watch?v=GSaRdpBRqLU)
+
 # Variables dependientes e independientes
 
 Sea $R$ una matriz de $m \times n$ con entradas en un campo y que está en [[Forma Escalonada Reducida por filas]], y supongamos que el [[rango por filas de R]] es $r$.

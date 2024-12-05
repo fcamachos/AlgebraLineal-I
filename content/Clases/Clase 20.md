@@ -6,6 +6,10 @@ tags:
   - contexto/academico
   - tema/algebra-lineal
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=3L3XY9G0imw&list=PLghS3UtiJLCs9_tduPulEGiV40-WaqUx3&index=2)
+
 # Espacios vectoriales 
 
 [[Ayudantía 14#^af4855]] 

@@ -6,6 +6,11 @@ date: 2024-08-30
 video:
   - https://www.youtube.com/watch?v=xf0iqNi3XVQ
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=xf0iqNi3XVQ)
+
+
 # Operaciones elementales por filas 
 aplicadas a una matriz $A$ de $m \times n$
 

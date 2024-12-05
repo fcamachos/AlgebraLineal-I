@@ -7,6 +7,9 @@ tags:
   - tema/algebra-lineal
 ---
 
+video:
+  - ![](https://www.youtube.com/watch?v=RtcJVNyo32g)
+
 # Matriz invertible
 
 Sea $A$ una matriz de $n \times n$, $A$ es invertible si existe una matriz $B$ de $n \times n$ tal que 

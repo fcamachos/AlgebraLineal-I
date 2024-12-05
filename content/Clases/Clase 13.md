@@ -6,6 +6,10 @@ tags:
   - contexto/academico
   - tema/algebra-lineal
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=rkrPyEq3Ikc)
+
 # Sistemas de ecuaciones
 
 ## Vectores

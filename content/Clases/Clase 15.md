@@ -6,6 +6,10 @@ tags:
   - contexto/academico
   - tema/algebra-lineal
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=v4zT62yF3tg)
+
 # Ejercicio 1
 
 Determinar si el sistema tiene solución y en caso afirmativo, encontrar todas las soluciones:

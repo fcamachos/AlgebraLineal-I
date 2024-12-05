@@ -7,6 +7,10 @@ tags:
   - tema/algebra-lineal
 ---
 
+video:
+  - ![](https://www.youtube.com/watch?v=rcEvdtgcgx0)
+
+
 Recordemos la definición de producto de matrices:
 [[Clase 07#^ad1ebf]] 
 

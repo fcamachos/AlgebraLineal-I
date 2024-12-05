@@ -8,6 +8,11 @@ tags:
   - tema/algebra-lineal
 pdf:
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=ifMIn3tnZ2s)
+  - ![](https://www.youtube.com/watch?v=IkXi0IHRBdE)
+
 # Ejercicios 
 
 ## 1

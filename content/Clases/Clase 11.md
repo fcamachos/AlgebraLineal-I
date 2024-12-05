@@ -6,6 +6,12 @@ date: 2024-09-02
 video:
   - https://www.youtube.com/watch?v=8U4QEu1gvyo
 ---
+
+
+video:
+  - ![](https://www.youtube.com/watch?v=8U4QEu1gvyo)
+
+
 Recordemos [[Clase 10#Notación]]
 
 # Forma escalonada reducida por filas

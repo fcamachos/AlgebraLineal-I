@@ -7,6 +7,9 @@ tags:
   - tema/algebra-lineal
 ---
 
+video:
+  - ![](https://www.youtube.com/watch?v=Ow6w0QeFk5w)
+
 1 teo
 Sea $V$ un $F-e.v.$ finítamente generado y sean $v_{1} , \dots, v_{n}$ vectores en $V$. 
 Son equivalentes:

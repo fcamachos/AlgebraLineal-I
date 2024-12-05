@@ -8,6 +8,11 @@ tags:
 pdf:
   - "[[20241023 Clase 23 y 25 octubre.pdf]]"
 ---
+
+pdf:
+  - "[[20241023 Clase 23 y 25 octubre.pdf]]"
+
+
 > 1
 
 

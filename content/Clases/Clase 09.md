@@ -6,6 +6,10 @@ tags:
   - contexto/academico
   - tema/algebra-lineal
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=vrw8YdSh6YA)
+
 # Propiedades del producto de matrices
 
 

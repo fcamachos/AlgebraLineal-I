@@ -7,6 +7,10 @@ tags:
   - tema/algebra-lineal
   - tipo/estudio
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=DjApJpq8nyY)
+
 # Unicidad del neutro aditivo
 
 >[!prp] El neutro aditivo es único

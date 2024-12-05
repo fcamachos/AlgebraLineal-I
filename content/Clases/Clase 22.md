@@ -9,6 +9,15 @@ pdf:
   - "[[20241016 16 de octubre parte 1.pdf]]"
   - "[[20241016 16 de octubre parte 2.pdf]]"
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=7lrRNoJfQ8Y)
+
+pdf:
+  - "[[20241016 16 de octubre parte 1.pdf]]"
+  - "[[20241016 16 de octubre parte 2.pdf]]"
+
+
 # Subespacios vectoriales 
 
 Continuación de [[Clase 19?#Subespacios vectoriales]]

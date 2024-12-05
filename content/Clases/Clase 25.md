@@ -7,6 +7,10 @@ tags:
   - tema/algebra-lineal
 media_link: https://www.youtube.com/watch?v=YG9zOik0chA
 ---
+
+video:
+  - ![](https://www.youtube.com/watch?v=YG9zOik0chA)
+
 Vectores canónicos en $F^{n}$ $\bar{e_{1}},\bar{e_{2},\dots, \bar{e_{n}}}$ generan a $F^{n}$ y son linealmente independientes.
 
 Las matrices canónicas $\{ E^{ij} \in M_{m\times n} (F) \quad \Big| \quad 1 \leq i \leq m , 1 \leq j \leq n \}$ generan a $M_{m \times n}(F)$ y son linealmente independientes.

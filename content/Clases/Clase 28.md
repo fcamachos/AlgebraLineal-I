@@ -11,6 +11,12 @@ pdf:
   - "[[20241025 25 octubre parte 1.pdf]]"
   - "[[20241025 25 octubre parte 2.pdf]]"
 ---
+
+pdf:
+  - "[[20241025 25 octubre parte 1.pdf]]"
+  - "[[20241025 25 octubre parte 2.pdf]]"
+
+
 Generalizamos el concepto de conjunto l.i.
 
 Sea $V$ un $F-e.v.$  y $X$ un subconjunto de $V$.
