@@ -1,5 +1,5 @@
 ---
-title: ¡Bienvenido!
+title: ¡Bienvenidos!
 ---
 
 Apuntes de clases de Álgebra Lineal I.
