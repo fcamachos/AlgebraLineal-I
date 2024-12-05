@@ -1,5 +1,5 @@
 ---
-fecha: 2024-08-07
+date: 2024-08-07
 video: 
 tags:
   - contexto/academico
