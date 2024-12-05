@@ -1,3 +1,10 @@
+---
+fecha: 2024-08-09
+video: 
+tags:
+  - contexto/academico
+  - tema/algebra-lineal
+---
 
 
  >[!def] Ley de la cancelación para la suma

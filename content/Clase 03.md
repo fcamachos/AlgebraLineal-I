@@ -1,3 +1,10 @@
+---
+fecha: 2024-08-12
+video: 
+tags:
+  - contexto/academico
+  - tema/algebra-lineal
+---
 
 
 > [!def] Propiedades de los inversos multiplicativos
