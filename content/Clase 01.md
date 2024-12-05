@@ -1,3 +1,10 @@
+---
+fecha: 2024-08-07
+video: 
+tags:
+  - contexto/academico
+  - tema/algebra-lineal
+---
 
 ## Números racionales: $\mathbb{Q}$
 
