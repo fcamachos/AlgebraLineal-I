@@ -2,10 +2,12 @@
 title: ¡Bienvenido!
 ---
 
-Página de bienvenida al proyecto 
+Apuntes de clases de Álgebra Lineal I.
+
+Impartido por la *M. en C. Clotilde García Villa*.
 
 
-Tabla de Contenidos
+**Tabla de Contenidos**
 - Primer mes
 	- Primer semana
 		- [[Clase 01]]
@@ -20,6 +22,7 @@ Tabla de Contenidos
 		- [[Clase 08]]
 	- Cuarta semana
 		- [[Clase 09]]
+		- [[Clase 10]]
 - Segundo mes
 	- Primer semana
 	- Segunda semana
