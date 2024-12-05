@@ -1,3 +1,10 @@
+---
+date: 2024-08-16
+video: 
+tags:
+  - contexto/academico
+  - tema/algebra-lineal
+---
 # Matrices
 
 Sean $m,n \in \mathbb{N}$, una [[matriz]] de orden $m \times n$ o tamaño $m \times n$ con entradas en un campo $F$, es un arreglo ordenado de $m$ renglones y $n$ columnas, que representamos en la forma:

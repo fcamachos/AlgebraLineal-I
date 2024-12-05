@@ -1,3 +1,10 @@
+---
+date: 2024-08-19
+video: 
+tags:
+  - contexto/academico
+  - tema/algebra-lineal
+---
 # Matrices elementales
 
 Sean $m,n \in \mathbb{N}$. Para cada $1 \leq i \leq m$ y $1 \leq j \leq n$ definimos la [[matriz|matriz]] $E^{ij}$ de $m \times n$ como la matriz cuya entrada $(i,j)$ es igual a 1 y todas las demás son cero. 

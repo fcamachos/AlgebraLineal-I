@@ -1,3 +1,10 @@
+---
+date: 2024-08-14
+video: 
+tags:
+  - contexto/academico
+  - tema/algebra-lineal
+---
 
 
 > [!def] Las potencias de un elemento
@@ -16,3 +23,13 @@
 > 3. $(xy)^{m}=x^{m}y^{m}$
 > 4. $x ^{-m}=(x^{-1})^{m}= (x^{m})^{-1}, \forall m \in \mathbb{Z}$
 > 5. $1^{m}=1$
+
+
+Demostración en [[ALI-Campos-2024.pdf|Notas, pag 6.]] 
+
+
+---
+
+> * Plática sobre campo laboral de las matemáticas 
+> * Consejos para demostraciones de matrices
+

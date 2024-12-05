@@ -16,7 +16,10 @@ Tabla de Contenidos
 		- [[Clase 05]]
 	- Tercer semana
 		- [[Clase 06]]
+		- [[Clase 07]]
+		- [[Clase 08]]
 	- Cuarta semana
+		- [[Clase 09]]
 - Segundo mes
 	- Primer semana
 	- Segunda semana
